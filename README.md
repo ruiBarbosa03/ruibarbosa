@@ -6,7 +6,6 @@ The goal is to learn a bit more about webdev and design and have something other
 Might also start a random themed blog.
 
 INTENT:
--> Will use HTML, CSS & PHP to get things running.
 -> Try out bootstrapping for some pazaz - reactive stuff, make it look good and clean
 -> Firebase DB for blog content
 -> Looking for more stuff to add :) 
